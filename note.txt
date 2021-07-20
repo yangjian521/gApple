@@ -1,0 +1,15 @@
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 371 bytes | 371.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'kele' on GitHub by visiting:
+remote:      https://github.com/yangjian521/gApple/pull/new/kele
+remote:
+To github.com:yangjian521/gApple.git
+ * [new branch]      kele -> kele
+Branch 'kele' set up to track remote branch 'kele' from 'origin'.
+
+gosling@DESKTOP-UC7ARGR MINGW64 ~/Desktop/GIT/gApple (kele)
